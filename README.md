@@ -1,2 +1,2 @@
 # Drinkdispenser
-Small Arduino project for a drink dispenser
+A Drinkdispenser, which can mix Cocktails
